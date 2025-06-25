@@ -1,6 +1,7 @@
 ---
 layout: category
-title: "Category: Aesthetics - Cottagecore"
+title: "Aesthetics - Cottagecore"
+category: Aesthetics - Cottagecore
 ---
 
 <div markdown="0"><div class="card mb-4" data-category="Aesthetics - Cottagecore" data-pubdate="2025-05-21T23:48:45.398002+00:00">  <a href="500265596_712551271285905_3665866267261655557_n.jpg.html"><img class="card-img-top" loading="lazy" src="500265596_712551271285905_3665866267261655557_n.jpg" alt="The meme is a humorous and darkly satirical image featuring a dilapidated and eerie-looking Victorian-style greenhouse with a broken and twisted iron staircase. The text overlaid on the image reads: &quot;collapse has its costs to those / tragically stuck inside / it&#x27;s a rotting corpse / but it doesn&#x27;t mean we can&#x27;t have both / knives and flowers / while inside / the belly of the beast.&quot; The image is meant to be a darkly humorous and ironic commentary on the human experience of pain and suffering." /></a>  <div class="card-body"><p><a href="memes/Aesthetics - Cottagecore/index.html">Aesthetics - Cottagecore</a></p>
