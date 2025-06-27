@@ -7,7 +7,7 @@ category: Aesthetics - Cottagecore
 <div markdown="0"><a href="Complete-A-frame-7880-panels-system.jpg"><img class="photo" src="Complete-A-frame-7880-panels-system.jpg" /></a>
 
 <h2>llama-3.2-vision</h2>
-<p title="Llama-3.2-Vision-11B is a really good model that probably gets the visual details right but doesn't understand literary or media references, and often fails to accurately represent the physical arrangement of objects and the implied relationships between the objects.">The meme is a photo of a solar panel installation in a rural area, with a sign in the foreground that reads &quot;Solar Panel: 1.5kW, 2.5kW, 3.5kW, 4.5kW, 5.5kW...&quot;. The image is humorous because it implies that the solar panel installation is trying to be too efficient and is actually a bit too powerful for its own good.</p>
+<p title="Llama-3.2-11B is a really good model that probably gets the visual details right but doesn't understand literary or media references, and often fails to accurately represent the physical arrangement of objects and the implied relationships between the objects.">The meme is a photo of a solar panel installation in a rural area, with a sign in the foreground that reads &quot;Solar Panel: 1.5kW, 2.5kW, 3.5kW, 4.5kW, 5.5kW...&quot;. The image is humorous because it implies that the solar panel installation is trying to be too efficient and is actually a bit too powerful for its own good.</p>
 
 <h2>first-seen</h2>
 <p title="Because Git doesn't preserve file modification times, this metadata file contains the file's modification time when it was added to the library.">2024-06-20T02:17:23.909864+00:00</p>

@@ -7,7 +7,7 @@ category: Aesthetics - Cottagecore
 <div markdown="0"><a href="b40vmg466hpb1.png"><img class="photo" src="b40vmg466hpb1.png" /></a>
 
 <h2>llama-3.2-vision</h2>
-<p title="Llama-3.2-Vision-11B is a really good model that probably gets the visual details right but doesn't understand literary or media references, and often fails to accurately represent the physical arrangement of objects and the implied relationships between the objects.">The meme is a humorous image featuring a quote from the ancient Greek philosopher Aristotle, which reads: &quot;The greatest crimes are always the ones that are most in the interest of the most powerful.&quot; The image is likely a satirical commentary on the idea that those in power are often able to get away with the most heinous crimes. The image is likely accompanied by a wry or sarcastic tone.</p>
+<p title="Llama-3.2-11B is a really good model that probably gets the visual details right but doesn't understand literary or media references, and often fails to accurately represent the physical arrangement of objects and the implied relationships between the objects.">The meme is a humorous image featuring a quote from the ancient Greek philosopher Aristotle, which reads: &quot;The greatest crimes are always the ones that are most in the interest of the most powerful.&quot; The image is likely a satirical commentary on the idea that those in power are often able to get away with the most heinous crimes. The image is likely accompanied by a wry or sarcastic tone.</p>
 
 <h2>first-seen</h2>
 <p title="Because Git doesn't preserve file modification times, this metadata file contains the file's modification time when it was added to the library.">2023-12-06T01:47:04+00:00</p>

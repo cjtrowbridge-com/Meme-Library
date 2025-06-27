@@ -7,7 +7,7 @@ category: Aesthetics - Cottagecore
 <div markdown="0"><a href="containers.JPG"><img class="photo" src="containers.JPG" /></a>
 
 <h2>llama-3.2-vision</h2>
-<p title="Llama-3.2-Vision-11B is a really good model that probably gets the visual details right but doesn't understand literary or media references, and often fails to accurately represent the physical arrangement of objects and the implied relationships between the objects.">The meme is a screenshot of a Facebook post from a page called &quot;Off Grid Living &amp; Survival&quot;. The post is titled &quot;Container Home&quot; and features a 3D rendering of a house made from shipping containers, with a caption that reads &quot;Container Home&quot;.</p>
+<p title="Llama-3.2-11B is a really good model that probably gets the visual details right but doesn't understand literary or media references, and often fails to accurately represent the physical arrangement of objects and the implied relationships between the objects.">The meme is a screenshot of a Facebook post from a page called &quot;Off Grid Living &amp; Survival&quot;. The post is titled &quot;Container Home&quot; and features a 3D rendering of a house made from shipping containers, with a caption that reads &quot;Container Home&quot;.</p>
 
 <h2>first-seen</h2>
 <p title="Because Git doesn't preserve file modification times, this metadata file contains the file's modification time when it was added to the library.">2023-09-03T21:31:48+00:00</p>
